@@ -11,7 +11,7 @@ int main() {
     //carta 1
 
     char estado1;
-    char codigo1[4];
+    char codigo1[20];
     char cidade1[50];
     int populacao1;
     float area1;
@@ -55,7 +55,7 @@ int main() {
     scanf("%2f", &pib1);
 
     printf("Pontos Turisticos: ");
-    scanf("%d", &pontosTuristicos1 );
+    scanf("%d", &pontosTuristicos1);
 
     printf("\n");
     
